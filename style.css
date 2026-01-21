@@ -1,0 +1,46 @@
+.nav {
+  position: sticky;
+  top: 0;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(137, 132, 132);
+  border-radius: 6px;
+}
+
+.nav li {
+  float: right;
+}
+
+.nav li a {
+  display: block;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav li a:hover {
+  background-color: #bfc9c8;
+  border-radius: 6px;
+}
+nav ul{
+  white-space: nowrap ;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.homeHead {
+    text-align: center;
+    background-color: rgb(129, 187, 237);
+    border-radius: 10px;
+}
+.homeHead h1 {
+    font-size: 55px;
+}
+
+main h4{
+    font-size: 30px;
+}
